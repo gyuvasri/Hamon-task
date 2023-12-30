@@ -1,0 +1,4 @@
+booking_id,customer_id,booking_date,destination,number_of_passengers,cost_per_passenger
+101,1,2023-01-01,Paris,2,500
+102,2,2023-02-15,New York,1,800
+103,3,2023-03-10,Tokyo,3,600
